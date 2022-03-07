@@ -1,0 +1,16 @@
+body {
+  background-color: #e6deff;
+   text-align: center;
+}
+
+h1 {
+  background-color: #b8a3ff:
+  padding: 30px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
