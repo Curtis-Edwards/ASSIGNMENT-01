@@ -1,23 +1,31 @@
 body {
   background-color: #e6deff;
-   text-align: center;
+    text-align: center;
 }
 h1 {
+  
   background-color: #b8a3ff;
   padding: 30px;
 }
 .center {
+  
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
-table, th, td {
-  border:1px solid black;
+table, 
+th, 
+td {
+  
+  border: 1px solid black;
 }
 img {
+  
   width: 50%;
 }
+
 h2 {
+  
   font-size: 20px;
 }
